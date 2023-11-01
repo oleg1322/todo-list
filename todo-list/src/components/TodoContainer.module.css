@@ -1,0 +1,28 @@
+.todo__container {
+    height: 100vh;
+}
+
+.container__header {
+    background-color: #F1ECE6;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.container__header h1 {
+    font-size: 40px;
+}
+
+.todo__items {
+    max-width: 1040px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: #F1ECE6;
+    border-radius: 50px;
+    font-size: 1.5rem;
+}
+
+.no__todos {
+    text-align: center;
+}

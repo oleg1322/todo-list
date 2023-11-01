@@ -1,0 +1,25 @@
+form {
+    max-width: 1040px;
+    margin: auto;
+    display: flex;
+}
+
+.form__input {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    background-color: #F1ECE6;
+    flex: 1 1 auto;
+    min-height: 75px;
+    padding: 0 20px 0 20px;
+    font-size: 1.5rem;
+}
+
+.form__button {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    padding: 0 20px 0 20px;
+    background-color: #76B7CD;
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #F3F3F3;
+}
